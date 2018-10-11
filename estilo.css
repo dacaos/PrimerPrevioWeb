@@ -1,13 +1,13 @@
 #ingreso {
  	float: right;
-	width: 25%;
-	border: black 5px solid;
+	width: 50%;
+	border: black 14px solid;
     margin: 5%;
     box-sizing: border-box;
 
 }
 #pie{
-		border: black 5px solid;
+		border: black 14px solid;
 
 }
 
